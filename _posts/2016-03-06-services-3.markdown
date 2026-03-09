@@ -1,8 +1,11 @@
 ---
 layout: default
-img: meeting.jpg
+img: service-3.jpg
 category: Services
-title: Agile methodology & Training 
+title: Cloud Solutions & Kubernetes
 description: |
 ---
-We make and follow-up the projects using Scrum/Agile methodologies to deliver quality in challenging assignments. To finalize our work, we prepare presentations and offer training/coaching.
+
+Design and implementation of cloud-native platforms.
+
+From containerization to Kubernetes-based infrastructure, Moogu supports organizations in building scalable and resilient environments for modern software systems.

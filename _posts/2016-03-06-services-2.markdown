@@ -1,8 +1,11 @@
 ---
 layout: default
-img: mobile.jpg
+img: service-2.jpg
 category: Services
-title: Mobile applications development
+title: Backend Systems & APIs
 description: |
 ---
-Everything is going mobile today and your project will have a great impact using this space. We develop projects for iOS and Android from architecture/development to publishing in the Stores.
+
+Design and development of robust backend services and APIs.
+
+Moogu helps organizations build secure, scalable and well-structured backend systems that integrate efficiently with modern applications and platforms.

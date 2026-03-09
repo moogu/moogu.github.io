@@ -1,8 +1,11 @@
 ---
 layout: default
-img: computer.jpg
+img: service-1.jpg
 category: Services
-title: Application solutions for frontend and backend
+title: Software Architecture
 description: |
 ---
-Our services include architecture, software design and implementation. We are able to transform business requirements into valuables software with great quality and support.
+
+Design and evolution of modern software architectures.
+
+From system design and domain modeling to integration and scalability, Moogu helps organizations build reliable and maintainable software systems.
