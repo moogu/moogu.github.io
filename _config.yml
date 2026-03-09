@@ -8,8 +8,7 @@ logo: logo-noname.png
 email: info@moogu.com
 author: Patrick Santana
 description: > # "Moogu is an IT company and carries more than 15 years of professional experience and hard work.
-copyright: 'Copyright &copy; 2016 Moogu Invest BVBA. All Rights Reserved.'
-#credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+copyright: 'Copyright &copy; 2026 Moogu Invest BV. All Rights Reserved.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,8 +25,6 @@ permalink: pretty
 social:
   - title: twitter
     url: https://twitter.com/moogu_it
-  - title: facebook
-    url: https://www.facebook.com/moogu/
   - title: envelope
     name: mail
     url: mailto:info@moogu.com
